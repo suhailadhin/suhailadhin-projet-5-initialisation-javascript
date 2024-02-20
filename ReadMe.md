@@ -24,27 +24,31 @@ Monsieur Gerodo a fait appel à Monsieur Adhin Stan, un développeur étudiant c
 > Le développeur doit insérer et utiliser le langague javascript sur la page existant pour rendre le site statique en dynamique.
 > Le développeur doit récuperer le site via github en clonant le projet sur Visual Studio [https://github.com/OpenClassrooms-Student-Center/Print-it-JS.git]().
 
-#### *Mise en place du projet*
+#### *Mise en place du projet étape par étape*
 ------------------------------
 
--Utiliser Visual Studio Code comme IDE.
+- Utiliser Visual Studio Code comme IDE.
 
--Cloner le fichier code via github.
+- Cloner le fichier code via github.
 ````terminal
 git clone https://github.com/OpenClassrooms-Student-Center/Print-it-JS.git
 ````
 
--Intégrer le language Javascript pour rendre le site dynamique.
+- Intégrer le language Javascript pour rendre le site dynamique.
 
--Rajouter les propriétés correspondantes sur le code HTML.
+- Mettre à jour le code HTML correspondantes du code CSS.
 
--Suivre les instructions étapes par étapes pour construire le code Javascript.
+- Suivre les instructions étapes par étapes pour construire le code Javascript.
+> Ajoutez des Event Listeners sur les flèches.
+> Ajoutez des bullet points au slider
+> Modifiez le slide au clic sur le bouton
+> Mettez en place le défilement infini sur le carrousel (ajouter des condition if else). 
 
--Ensuite lorsque le projet est terminé utiliser les commandes git pour transferer le code sur la platforme github.
+- Ensuite lorsque le projet est terminé utiliser les commandes git pour transferer le code sur la platforme github.
 ````terminal
 git status
 git add .
 git commit -m
 git push
 ````
--Après déployer le code sur githubpage.
+- Après déployer le code sur githubpage.
