@@ -24,4 +24,13 @@ Monsieur Gerodo a fait appel à Monsieur Adhin Stan, un développeur étudiant c
 > Le développeur doit insérer et utiliser le langague javascript sur la page existant pour rendre le site statique en dynamique.
 > Le développeur doit récuperer le site via github en clonant le projet sur Visual Studio [https://github.com/OpenClassrooms-Student-Center/Print-it-JS.git]().
 
+#### *Mise en place du projet*
+------------------------------
 
+.Utiliser Visual Studio Code comme IDE.
+
+.Intégrer le language Javascript pour rendre le site dynamique.
+
+.Rajouter les propriétés correspondantes sur le code HTML.
+
+.Suivre les instructions étapes par étapes pour construire le code Javascript.
