@@ -27,10 +27,19 @@ Monsieur Gerodo a fait appel à Monsieur Adhin Stan, un développeur étudiant c
 #### *Mise en place du projet*
 ------------------------------
 
-.Utiliser Visual Studio Code comme IDE.
+-Utiliser Visual Studio Code comme IDE.
 
-.Intégrer le language Javascript pour rendre le site dynamique.
+-Intégrer le language Javascript pour rendre le site dynamique.
 
-.Rajouter les propriétés correspondantes sur le code HTML.
+-Rajouter les propriétés correspondantes sur le code HTML.
 
-.Suivre les instructions étapes par étapes pour construire le code Javascript.
+-Suivre les instructions étapes par étapes pour construire le code Javascript.
+
+-Ensuite lorsque le projet est terminé utiliser les commandes git pour transferer le code sur la platforme github.
+````terminal
+git status
+git add .
+git commit -m
+git push
+````
+-Après déployer le code sur githubpage.
