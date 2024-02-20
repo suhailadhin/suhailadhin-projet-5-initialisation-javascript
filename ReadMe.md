@@ -52,3 +52,10 @@ git commit -m
 git push
 ````
 - Après déployer le code sur githubpage.
+
+- Vérification conformité du code sur le site W3C.
+
+#### *Lien Github*
+
+> liens github [https://github.com/suhailadhin/suhailadhin-projet-5-initialisation-javascript] ().
+> lien de la page githubpage [https://suhailadhin.github.io/suhailadhin-projet-5-initialisation-javascript/] ().
