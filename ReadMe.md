@@ -40,8 +40,11 @@ git clone https://github.com/OpenClassrooms-Student-Center/Print-it-JS.git
 
 - Suivre les instructions étapes par étapes pour construire le code Javascript.
 > Ajoutez des Event Listeners sur les flèches.
-> Ajoutez des bullet points au slider
-> Modifiez le slide au clic sur le bouton
+
+> Ajoutez des bullet points au slider.
+
+> Modifiez le slide au clic sur le bouton.
+
 > Mettez en place le défilement infini sur le carrousel (ajouter des condition if else). 
 
 - Ensuite lorsque le projet est terminé utiliser les commandes git pour transferer le code sur la platforme github.
