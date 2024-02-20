@@ -29,6 +29,11 @@ Monsieur Gerodo a fait appel à Monsieur Adhin Stan, un développeur étudiant c
 
 -Utiliser Visual Studio Code comme IDE.
 
+-Cloner le fichier code via github.
+````terminal
+git clone https://github.com/OpenClassrooms-Student-Center/Print-it-JS.git
+````
+
 -Intégrer le language Javascript pour rendre le site dynamique.
 
 -Rajouter les propriétés correspondantes sur le code HTML.
