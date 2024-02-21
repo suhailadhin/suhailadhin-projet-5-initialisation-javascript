@@ -20,7 +20,7 @@ const slides = [
 /*je teste et regarde dans la console si mon ficher js est bien chargé dans le navigateur*/
 console.log("Hello welcome");
 
-//recuperation de l'élément
+//recuperation de l'élément à l'aide du DOM
 
 const bannerImg = document.querySelector('.banner-img');
 const arrowLeft = document.querySelector('.arrow_left');
@@ -60,6 +60,8 @@ function updateCarousel(index, direction) {
 
     console.log(`Clic sur la flèche ${direction}`);
 }
+
+// Ajout Event Listenner sur les flèches
 
 // Gestionnaire d'événement pour le clic sur la flèche gauche
 arrowLeft.addEventListener('click', function () {
